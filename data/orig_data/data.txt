@@ -1,0 +1,7 @@
+The datasets are owned by CDC, and therefore cannot be deposited to our bitbucket page. It has been published in the following papers [1,2]. The data distribution is guided by the US government regulations, and it can be obtained from CDC upon reasonable request. We have added the mentioning of this fact to the paper.
+
+[1] David S Campo, Guo-Liang Xia, Zoya Dimitrova, Yulin Lin, Joseph C Forbi, Lilia Ganova-Raeva, Lili Punkova,Sumathi Ramachandran, Hong Thai, Pavel Skums, et al.  Accurate genetic detection of hepatitis c virustransmissions in outbreak settings.The Journal of infectious diseases, 213(6):957–965, 2015
+
+[2] James Lara, Mahder Teka, and Yury Khudyakov.  Identification of recent cases of hepatitis c virus infectionusing physical-chemical properties of hypervariable region 1 and a radial basis function neural network classifier.BMC genomics, 18(10):880, 2017.
+
+Please contact Dr. Pavel Skums for any questions or suggestions.
